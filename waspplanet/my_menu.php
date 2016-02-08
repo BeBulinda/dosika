@@ -12,7 +12,7 @@
 					<!--<li><a href="#">ARTISTES</a></li> -->
 					<!--<li><a href="#">TOP MUSIC</a></li> -->
 					<!--<li><a href="about.php">ABOUT</a></li>-->
-					<li><a href="contact.php">CONTACTS</a></li>
+					<li><a href="p_upload.php">ADD PAST PAPER </a></li>
 					<li><a href="analytics.php">ANALYTICS</a></li>
 					<li><a href="payment.php">REQUEST PAY</a></li>
                     <?php if($_SESSION['artiste']){ echo '<li><a href="logout.php">LOGOUT</a></li>'; } ?>
