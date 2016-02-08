@@ -1,0 +1,268 @@
+2014-12-22 15:31:50 - PHP Notice:  Undefined variable: text_edit in /opt/lampp/htdocs/dosika/GiftShop/admin/view/template/setting/setting.tpl on line 29
+2014-12-22 15:37:34 - PHP Notice:  Undefined variable: text_edit in /opt/lampp/htdocs/dosika/GiftShop/admin/view/template/setting/setting.tpl on line 29
+2014-12-22 15:53:59 - PHP Notice:  Undefined variable: text_edit in /opt/lampp/htdocs/dosika/GiftShop/admin/view/template/setting/setting.tpl on line 29
+2014-12-23 8:19:22 - PHP Notice:  Undefined variable: text_edit in /opt/lampp/htdocs/dosika/GiftShop/admin/view/template/setting/setting.tpl on line 29
+2014-12-23 9:35:04 - PHP Notice:  Undefined variable: text_edit in /opt/lampp/htdocs/dosika/GiftShop/admin/view/template/setting/setting.tpl on line 29
+2014-12-29 3:38:10 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2014-12-29 3:38:10 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-04 22:43:33 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-04 22:43:33 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-10 16:45:05 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-10 16:45:05 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-10 16:47:34 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-10 16:47:34 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-29 3:28:14 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-29 3:28:14 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-29 3:40:43 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-01-29 3:40:43 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-03 8:57:53 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-03 8:57:53 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-10 0:29:16 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-10 0:29:16 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-11 3:25:17 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-11 3:25:17 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-22 23:28:57 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-02-22 23:28:57 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-02 22:38:08 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:08 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:08 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 181
+2015-03-02 22:38:09 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:09 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:09 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 181
+2015-03-02 22:38:10 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:10 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:10 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 181
+2015-03-02 22:38:12 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:12 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:12 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 181
+2015-03-02 22:38:13 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:13 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:13 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 181
+2015-03-02 22:38:14 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:14 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 177
+2015-03-02 22:38:14 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/login.php on line 181
+2015-03-05 23:27:18 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-05 23:27:18 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-16 0:12:37 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-16 0:12:37 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-17 10:16:54 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-17 10:16:54 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-18 19:12:00 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-18 19:12:00 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-23 17:51:15 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-23 17:51:15 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-26 12:08:03 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-26 12:08:03 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-26 12:08:43 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-03-26 12:08:43 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-04 23:47:58 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-04 23:47:58 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: firstname in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 339
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: lastname in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 343
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 347
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 347
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 351
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: telephone in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 355
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: address_1 in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 359
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: city in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 363
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: country_id in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 369
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: country_id in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 375
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 401
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: confirm in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 405
+2015-04-05 13:48:10 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 405
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: firstname in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 339
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: lastname in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 343
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 347
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 347
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 351
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: telephone in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 355
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: address_1 in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 359
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: city in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 363
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: country_id in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 369
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: country_id in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 375
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 401
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: confirm in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 405
+2015-04-05 13:48:37 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 405
+2015-04-18 12:47:49 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-18 12:47:50 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-19 4:33:37 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-19 4:33:37 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: firstname in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 339
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: lastname in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 343
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 347
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 347
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: email in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 351
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: telephone in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 355
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: address_1 in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 359
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: city in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 363
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: country_id in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 369
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: country_id in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 375
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 401
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: confirm in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 405
+2015-04-20 5:53:51 - PHP Notice:  Undefined index: password in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/account/register.php on line 405
+2015-04-23 5:40:11 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-23 5:40:11 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-23 13:14:52 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-23 13:14:52 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-23 13:19:37 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-23 13:19:37 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-24 9:37:12 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-24 9:37:12 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-24 18:03:33 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-24 18:03:33 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-28 2:01:54 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-28 2:01:54 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-28 2:03:10 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-28 2:03:10 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-28 23:20:43 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-04-28 23:20:43 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-01 16:00:04 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-01 16:00:04 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-05 0:29:16 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-05 0:29:16 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:12:50 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:12:50 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:14:58 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:14:58 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:17:54 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:17:54 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:18:09 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-08 7:18:09 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-13 0:22:23 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-13 0:22:23 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-13 19:27:08 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-13 19:27:08 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-21 14:19:23 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-21 14:19:23 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-24 2:55:18 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-05-24 2:55:18 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-05-24 2:55:18 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-05-24 2:55:18 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-05-24 2:55:18 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-05-24 2:55:18 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-05-24 5:24:35 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-05-24 5:24:35 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-05-24 5:24:35 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-05-24 5:24:35 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-05-24 5:24:35 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-05-24 5:24:35 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-05-27 7:47:47 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-27 7:47:47 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-30 15:02:11 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-30 15:02:11 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-30 15:03:30 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-05-30 15:03:30 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-06-07 23:51:41 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-06-07 23:51:41 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-06-21 18:55:13 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-06-21 18:55:13 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-06-28 10:23:09 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-06-28 10:23:09 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-06 19:33:14 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-06 19:33:14 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-12 6:40:23 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-12 6:40:23 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-12 6:46:44 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-12 6:46:44 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-19 17:35:43 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-19 17:35:43 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-20 1:11:32 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-20 1:11:32 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-21 16:38:06 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-21 16:38:06 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-23 5:10:51 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-23 5:10:51 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-23 7:40:21 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-23 7:40:21 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-26 6:25:46 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 6:25:46 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 6:25:46 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 6:25:46 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 6:25:46 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 6:25:46 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-26 10:11:59 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 10:11:59 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 10:11:59 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 10:11:59 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 10:11:59 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 10:11:59 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-26 12:39:30 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 12:39:30 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 12:39:30 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 12:39:30 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 12:39:30 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 12:39:30 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-26 16:08:45 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 16:08:45 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 16:08:45 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 16:08:45 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 16:08:45 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 16:08:45 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-26 16:40:12 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 16:40:12 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 16:40:12 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 16:40:12 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 16:40:12 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 16:40:12 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-26 18:20:01 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 18:20:01 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 18:20:01 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 18:20:01 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 18:20:01 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 18:20:01 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-26 20:25:27 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '61' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 20:25:27 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 20:25:27 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/product/category.php on line 174
+2015-07-26 20:25:27 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 20:25:27 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 20:25:27 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/module/category.php on line 34
+2015-07-26 20:25:27 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 20:25:27 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-26 20:25:27 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-26 20:25:27 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-26 20:25:27 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-26 20:25:27 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-27 0:35:58 - PHP Notice:  Error: Got error -1 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-27 0:35:58 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-07-27 0:35:58 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-07-27 0:35:58 - PHP Notice:  Error: Got error -1 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-07-27 0:35:58 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-07-27 0:35:58 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-07-29 2:22:41 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-29 2:22:41 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-30 5:41:02 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-30 5:41:02 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-30 5:50:50 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-30 5:50:50 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-31 11:44:11 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-07-31 11:44:11 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-02 23:15:24 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-02 23:15:24 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-04 16:04:52 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-04 16:04:52 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-08 10:28:55 - PHP Notice:  Undefined variable: continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-08 10:28:55 - PHP Notice:  Undefined variable: button_continue in /opt/lampp/htdocs/dosika/GiftShop/catalog/view/theme/default/template/product/special.tpl on line 105
+2015-08-09 1:26:41 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '70' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 1:26:41 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-08-09 1:26:41 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/product/category.php on line 174
+2015-08-09 1:26:41 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 1:26:41 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-08-09 1:26:41 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/module/category.php on line 34
+2015-08-09 1:26:41 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 1:26:41 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-08-09 1:26:41 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-08-09 1:26:41 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 1:26:41 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-08-09 1:26:41 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-08-09 1:36:41 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 1:36:41 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-08-09 1:36:41 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-08-09 1:36:41 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 1:36:41 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-08-09 1:36:41 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91
+2015-08-09 2:18:30 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_information i LEFT JOIN dc_information_description id ON (i.information_id = id.information_id) LEFT JOIN dc_information_to_store i2s ON (i.information_id = i2s.information_id) WHERE id.language_id = '1' AND i2s.store_id = '0' AND i.status = '1' ORDER BY i.sort_order, LCASE(id.title) ASC in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 2:18:30 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/information.php on line 12
+2015-08-09 2:18:30 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/footer.php on line 25
+2015-08-09 2:18:30 - PHP Notice:  Error: Got error 28 from storage engine<br />Error No: 1030<br />SELECT * FROM dc_category c LEFT JOIN dc_category_description cd ON (c.category_id = cd.category_id) LEFT JOIN dc_category_to_store c2s ON (c.category_id = c2s.category_id) WHERE c.parent_id = '0' AND cd.language_id = '1' AND c2s.store_id = '0'  AND c.status = '1' ORDER BY c.sort_order, LCASE(cd.name) in /opt/lampp/htdocs/dosika/GiftShop/system/library/db/mysqli.php on line 40
+2015-08-09 2:18:30 - PHP Notice:  Trying to get property of non-object in /opt/lampp/htdocs/dosika/GiftShop/catalog/model/catalog/category.php on line 12
+2015-08-09 2:18:30 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/dosika/GiftShop/catalog/controller/common/header.php on line 91

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Dosika Gift shop</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="description" content="[PLEASE INSERT YOUR DESCRIPTION]">
+        <meta name="keywords" content="[PLEASE INSERT YOUR KEYWORDS]">
+
+
+        <!-- BEGIN: stylesheets !-->
+        <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,700&amp;subset=latin' rel='stylesheet' type='text/css'>
+        <link href="css/jquery.countdown.css" rel="stylesheet" type="text/css">
+		<link href="css/screen.css" rel="stylesheet" type="text/css">
+        <link href="css/app.css" rel="stylesheet" type="text/css">
+		<!-- END stylesheets !-->
+        
+        <!--[if lt IE 9]>
+			<script src="js/html5shiv.js"></script>
+		<![endif]-->
+    </head>
+    <body>
+
+        <!-- BEGIN: header !-->
+        <header>
+            <div id="clouds"></div>
+            
+            <div id="city"></div>
+            <div id="city2"></div>
+            
+            <div class="center">
+                <h1>Gift Shop under Construction</h1>
+                
+                <!-- BEGIN: counter !-->
+                <div id="counter">
+                    <div id="countdown"></div>
+                    <p id="labels">
+                        <span>days</span>
+                        <span>hours</span>
+                        <span>min</span>
+                        <span>sec</span>
+                    </p>
+                </div>
+                <!-- END counter !-->
+                
+                <div id="social">
+                    <ul>
+                        <li><a href="https://www.facebook.com/Waspafrica" id="fb"></a></li>
+                        <li><a href="http://plus.google.com/100212337296371384451?prsrc=3" id="google"></a></li>
+                        <li><a href="https://twitter.com/waspafrica" id="twitter"></a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </header>
+        <!-- END: header !-->
+
+        <!-- BEGIN: header !-->
+        <section id="content">
+            <div class="center">
+                <div id="house"></div>
+                <div id="car"></div>
+                
+                <!-- BEGIN: Information !-->
+                <div id="info">
+                    <h3>Information</h3>
+                    <div class="col">
+                        <p>With a little cash + your loyalty points you will now be able purchase awesome goodies from the dosika shop!!!!! </p>
+                    </div>
+                    <div class="col">
+                        <p>Continue partcipating in the Dosika fun club....</p>
+                    </div>
+                </div>
+                <!-- END Information !-->
+                
+                <!-- BEGIN: newsletter !-->
+                <div id="newsletter">
+                    <h3>Newsletter</h3>
+                    
+                    <div id="box-input">
+                        <form action="MAILTO:support@waspafrica.com" method="post" id="form-newsletter">
+                            <input type="text" id="email" name="newsletter" class="required email" placeholder="Enter your email"/>
+                            <input type="submit" value="Add"/>
+                            <div class="clear"></div>
+                        </form>
+                    </div>
+                </div>
+                <!-- END newsletter !-->                
+            </div>
+        </section>
+        <!-- END header !-->
+
+        <!-- BEGIN: footer !-->
+        <footer>
+            <div class="center">
+                <p class="left">Copyright &copy; 2014 by <a href="#">Wasp Africa LTD</a><br/>
+                [All rights reserved] </p>
+                <p class="right">Created by <a href="www.waspafrica.com">waspafrica</a></p>
+            </div>
+        </footer>
+        <!-- END: footer !-->
+
+        
+        <!-- BEGIN: Scripts on bottom for perfomance !-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+        <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js" type="text/javascript"></script>
+
+        <script src="js/jquery.countdown.js" type="text/javascript"></script>
+		<script src="js/app.js" type="text/javascript"></script>
+        <!-- END Scripts on bottom for perfomance !-->
+        
+    </body>
+</html>
