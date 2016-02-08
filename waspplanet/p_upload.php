@@ -29,8 +29,8 @@ if(isset($_POST['submit'])){
             $location = 'papers/';
                if(move_uploaded_file($tmp_name, $location.$name)){
                    echo "<script> alert('Document Uploaded')</script>";
-                   mysql_query("INSERT INTO papers(p_name,  url, date, subjects, classes,  u_id) 
-                                VALUES('$p_name',  '$name', '$date', '$subject', $class',  '{$_SESSION['u_id']}')");
+                   mysql_query("INSERT INTO papers(p_name,  url, dates, subjects, classes,  u_id) 
+                                VALUES('$p_name',  '$name', '$date', '$subject', '$class',  '{$_SESSION['u_id']}')");
                }
             }else {
                 echo "<script>alert('File must be pdf/zip and 40MB or less!')</script>";
