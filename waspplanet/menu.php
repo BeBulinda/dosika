@@ -9,7 +9,7 @@
 					<li><a href="visual.php">VIDEOS</a></li>
 					<li><a href="audio.php">AUDIO</a></li>
 					<li><a href="0g/">MOBILE GAMES</a></li>
-					<!--<li><a href="#">TOP MUSIC</a></li>-->
+					<li><a href="past_papers.php">PAST PAPERS</a></li>-->
 					<li><a href="about.php">ABOUT US</a></li>
 					<li><a href="news_loaded.php">NEWS</a></li>
 					<li><a href="contact.php">CONTACT US</a></li>

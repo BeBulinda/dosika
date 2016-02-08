@@ -56,30 +56,31 @@ $print_date = date('Y-m-d H:i:s');
 <label for="subject">SELECT SUBJECT</label>
 <div class='form-group'>
     <select class='form-control' name='subject'>
-        <option>SELECT A PLATFORM</option>
+        <option>SELECT SUBJECT</option>
         <option value='ENGLISH'>ENGLISH</option>
         <option value='KISWAHILI'>KISWAHILI</option>
         <option value='MATHEMATICS'>MATHEMATICS</option>
         <option value='SCIENCE'>SCIENCE</option>
         <option value='GEOGRAPHY'>GEOGRAPHY</option>
+         <option value='GHC'>GHC</option>
     </select>
     </div>
 <label for="class">SELECT CLASS/FORM</label>
 <div class='form-group'>
     <select class='form-control' name='class'>
         <option>SELECT CLASS/FORM</option>
-        <option value='C1'>CLASS 1</option>
-        <option value='C2'>CLASS 2</option>
-        <option value='C3'>CLASS 3</option>
-        <option value='C4'>CLASS 4</option>
-        <option value='C5'>CLASS 5</option>
-        <option value='C6'>CLASS 6</option>
-        <option value='C7'>CLASS 7</option>
-        <option value='C8'>CLASS 8</option>
-        <option value='F1'>FORM 1</option>
-        <option value='F2'>FORM 2</option>
-        <option value='F3'>FORM 3</option>
-        <option value='F4'>FORM 4</option>
+        <option value='CLASS 1'>CLASS 1</option>
+        <option value='CLASS 2'>CLASS 2</option>
+        <option value='CLASS 3'>CLASS 3</option>
+        <option value='CLASS 4'>CLASS 4</option>
+        <option value='CLASS 5'>CLASS 5</option>
+        <option value='CLASS 6'>CLASS 6</option>
+        <option value='CLASS 7'>CLASS 7</option>
+        <option value='CLASS 8'>CLASS 8</option>
+        <option value='FORM 1'>FORM 1</option>
+        <option value='FORM 2'>FORM 2</option>
+        <option value='FORM 3'>FORM 3</option>
+        <option value='FORM 4'>FORM 4</option>
     </select>
 </div>
 
